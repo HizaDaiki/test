@@ -1,0 +1,22 @@
+eur ヨーロッパ
+usd アメリカ
+gbp イギリス
+cad カナダ
+chf スイス
+aud オーストラリア
+nzd ニュージーランド
+sgd シンガポール
+nok ノルウェー
+rub ロシア
+sek スウェーデン
+try トルコ
+zar 南アフリカ
+hkd 香港
+cnh 中国
+dkk デンマーク
+mxn メキシコ
+pln ポーランド
+
+http://forex.1forge.com/1.0.3/quotes?pairs=USDJPY,EURJPY,GBPJPY ,CADJPY,CHFJPY,AUDJPY,NZDJPY,SGDJPY,NOKJPY,RUBJPY,SEKJPY,TRYJPY,ZARJPY,HKDJPY,CNHJPY,DKKJPY,MXNJPY,PLNJPY&api_key=pVXJKpRVB7tuW2vyFYB1zmcLo3kRvq2u
+
+19カ国
